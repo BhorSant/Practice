@@ -1,0 +1,14 @@
+[33mcommit 8ef6d44c88f0be3df5d46b54495570bb5ce7be69[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Santosh Bhor <91824340+BhorSant@users.noreply.github.com>
+Date:   Sat Mar 2 07:14:31 2024 +0000
+
+    update data
+
+[1mdiff --git a/abc.txt b/abc.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0204466[m
+[1m--- /dev/null[m
+[1m+++ b/abc.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mgit config[m[41m [m
+\ No newline at end of file[m
